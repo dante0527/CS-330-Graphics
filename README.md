@@ -1,1 +1,13 @@
 # CS-330-Graphics
+
+**How do I approach designing software?**
+
+When approaching software design, it is essential to have a systematic approach. In the context of this project, I have developed new design skills such as generating accurate 3D representations, applying textures, and implementing lighting. The design process involved understanding requirements, identifying key components, and design principles. Following this approach helped to ensure that the software met the requirements, was clean and well structured, and adheres to best practices. These tactics can be applied in future work by adapting them to the specific requirements and technologies of each project, ensuring a consistent and effective approach to software design.
+
+**How do I approach developing programs?**
+
+When it comes to program development, our work on the 3D scene project introduced us to new development strategies. These strategies included incremental development, where we focused on implementing one feature or component at a time and verified its functionality before proceeding. Iteration played a crucial role in the development process, allowing us to refine and improve the code incrementally. Throughout the project milestones, our approach to developing code evolved as we gained a deeper understanding of the different approaches available to us in OpenGL graphics programming, learned from feedback and testing, and made necessary adjustments to ensure the success of the project.
+
+**How can computer science help me in reaching my goals?**
+
+Computer science offers valuable knowledge and skills that can contribute to reaching my goals, most notably because I plan to continue to practice computer science for a living and as a hobby. Computational graphics and visualizations, specifically, has provided me with new knowledge and skills that have shown me how certain programs interact with others, how graphics work at a low level in the computer, although this may not be directly useful to me in the future. Through this project, I've have gained experience in areas such as 3D modeling, texture mapping, lighting, and object placement. These skills could potentially be applied in my future educational pathway, if I decided pursue advanced studies or research in computer graphics, virtual reality, etc. Professionally, the skills I've acquired could open doors to various industries such as gaming, healthcare, entertainment, and business, where computational graphics and visualizations are in high demand. Personally, I do not plan on pursuing graphics any further, but not only was it fun to try, I am now better equipped to understand these kinds of programs and potentially create software that might interact with 2D or 3D graphics in the future.
